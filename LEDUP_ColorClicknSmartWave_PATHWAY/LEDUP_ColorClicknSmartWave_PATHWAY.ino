@@ -2,7 +2,7 @@
 #include <RCSwitch.h>
 
 /*
- * Add definition place
+ * Add definition places
  */
 #define   RADAR_PIN     D1
 #define   LIGHT_PIN     D2
