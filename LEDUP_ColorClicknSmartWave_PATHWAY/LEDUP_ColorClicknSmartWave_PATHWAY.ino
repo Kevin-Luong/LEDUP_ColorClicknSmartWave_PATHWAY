@@ -2,9 +2,9 @@
 #include <RCSwitch.h>
 
 
-#define   RF_PIN        D3         // Receiver on interrupt 0 => that is pin 2
 #define   RADAR_PIN     D1
 #define   LIGHT_PIN     D2
+#define   RF_PIN        D3         // Receiver on interrupt 0 => that is pin 2
 #define   BUTTON_PIN    D5
 #define   LED_PIN       D7
 
