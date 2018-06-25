@@ -1,9 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 #include <RCSwitch.h>
 
-/*
- * Add definition places
- */
+
 #define   RADAR_PIN     D1
 #define   LIGHT_PIN     D2
 #define   RF_PIN        D3         // Receiver on interrupt 0 => that is pin 2
