@@ -1,3 +1,6 @@
+/*
+ * Add including places
+ */
 #include <Adafruit_NeoPixel.h>
 #include <RCSwitch.h>
 
